@@ -21,7 +21,7 @@
 
 ---
 
-## 👤 Author & Contributor Details
+## 👤 Author Details
 
 | Developer & Lead Architect | Department & Institution | Institutional Email | GitHub Profile |
 | :--- | :--- | :--- | :--- |
