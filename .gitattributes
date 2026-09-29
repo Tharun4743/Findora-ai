@@ -1,0 +1,23 @@
+# ====================================================================
+# GitHub Linguist Language & Repository Attributes
+# ====================================================================
+
+# Documentation files
+docs/** linguist-documentation=true
+*.tex linguist-documentation=true
+*.pdf linguist-documentation=true
+
+# Vendor / Infrastructure scripts
+backend/** linguist-vendored=true
+backend/database/** linguist-vendored=true
+api/** linguist-vendored=true
+*.sql linguist-vendored=true
+*.bat linguist-vendored=true
+*.sh linguist-vendored=true
+*.json linguist-vendored=true
+*.lock linguist-vendored=true
+
+# Primary Source Language: TypeScript (TSX / TS)
+frontend/src/**/*.tsx linguist-language=TypeScript
+frontend/src/**/*.ts linguist-language=TypeScript
+frontend/vite.config.ts linguist-language=TypeScript
