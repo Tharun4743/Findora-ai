@@ -1,4 +1,4 @@
-# 🛡️ FINDORA AI
+# ≡ƒ¢í∩╕Å FINDORA AI
 ### Autonomous Campus Lost & Found Intelligence Network
 
 <div align="center">
@@ -21,21 +21,21 @@
 
 ---
 
-## 👤 Author Details
+## ≡ƒæñ Author Details
 
 | Developer & Lead Architect | Department & Institution | Institutional Email | GitHub Profile |
 | :--- | :--- | :--- | :--- |
 | **Tharunkumar K** | Dept. of Information Technology, **V.S.B. Engineering College (VSBEC)** | `tharunkumark42007@gmail.com` | [@Tharun4743](https://github.com/Tharun4743) |
 
-### 🔗 Official Repositories
+### ≡ƒöù Official Repositories
 1. **Primary Developer Repository**: [`https://github.com/Tharun4743/findora-ai`](https://github.com/Tharun4743/findora-ai)
-2. **Institutional College Repository**: [`https://github.com/VSBECIT/findora-ai`](https://github.com/VSBECIT/findora-ai) *(Maintained by Tharunkumar K — @Tharun4743)*
+2. **Institutional College Repository**: [`https://github.com/VSBECIT/findora-ai`](https://github.com/VSBECIT/findora-ai) *(Maintained by Tharunkumar K ΓÇö @Tharun4743)*
 
 - **IEEE Research Report**: [`docs/findora_ieee_report.pdf`](docs/findora_ieee_report.pdf) *(Exact 4-Page Standard Two-Column Paper)*
 
 ---
 
-## 🏗️ System Architecture & Data Pipeline
+## ≡ƒÅù∩╕Å System Architecture & Data Pipeline
 
 ```mermaid
 graph TD
@@ -48,7 +48,7 @@ graph TD
     subgraph PRESENTATION ["1. Presentation Layer (React 19 + TypeScript)"]
         UI_SPA["React 19 Single Page App<br/>(Vite, Tailwind CSS, Lucide Icons)"]:::client
         UI_CAM["Live WebRTC Camera Engine<br/>(HTML5 Canvas Optical GPS & Timestamp Stamping)"]:::client
-        UI_ROLES["Three-Tier Role Views<br/>(Student Portal • Desk Officer • Admin Intelligence)"]:::client
+        UI_ROLES["Three-Tier Role Views<br/>(Student Portal ΓÇó Desk Officer ΓÇó Admin Intelligence)"]:::client
     end
 
     subgraph GATEWAY ["2. Backend API Gateway (Node.js / Express)"]
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-## 🛠️ Current Technology Stack
+## ≡ƒ¢á∩╕Å Current Technology Stack
 
 | Layer | Technologies & Frameworks | Description |
 | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ graph TD
 
 ---
 
-## ⚡ Core Mathematical Matching Formulation
+## ΓÜí Core Mathematical Matching Formulation
 
 When an item is reported, FINDORA AI scans the opposite inventory catalog and calculates a composite matching score $\Phi(I_t, I_j) \in [0, 1]$:
 
@@ -121,7 +121,7 @@ $$\Phi(I_t, I_j) = 0.35 \cdot S_{\text{vis}} + 0.30 \cdot S_{\text{sem}} + 0.15 
 
 ---
 
-## 🤖 Telegram Bot Commands (`@findoravsb_bot`)
+## ≡ƒñû Telegram Bot Commands (`@findoravsb_bot`)
 
 The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
@@ -145,7 +145,7 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
 ---
 
-## 📊 Live Experimental Performance (VSBEC Pilot)
+## ≡ƒôè Live Experimental Performance (VSBEC Pilot)
 
 | Metric | Traditional Physical Register | FINDORA AI Platform | Impact |
 | :--- | :---: | :---: | :---: |
@@ -158,7 +158,7 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
 ---
 
-## 🌐 Live Production Links
+## ≡ƒîÉ Live Production Links
 
 - **Production Portal**: [https://findoravsbec.vercel.app](https://findoravsbec.vercel.app)
 - **Primary GitHub Repo**: [https://github.com/Tharun4743/findora-ai](https://github.com/Tharun4743/findora-ai)
@@ -170,5 +170,27 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 ---
 
 <div align="center">
-  <sub>FINDORA AI • Tharunkumar K (@Tharun4743) • V.S.B. Engineering College, Karur</sub>
+  <sub>FINDORA AI ΓÇó Tharunkumar K (@Tharun4743) ΓÇó V.S.B. Engineering College, Karur</sub>
 </div>
+
+
+## License & Intellectual Property Notice
+
+> [!CAUTION]
+> ### ðŸ”’ PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY â€” ALL RIGHTS RESERVED
+>
+> All rights reserved. This repository, its architecture, source code, workflows, models, and associated documentation are the exclusive intellectual property of **Tharunkumar Kâ„¢**.
+>
+> **STRICT NOTICE:** No individual, organization, institution, or commercial entity is permitted to use, copy, modify, distribute, reproduce, sublicense, reverse-engineer, deploy, or commercially exploit any portion of this project without express, prior written permission from **Tharunkumar K**.
+>
+> **Copyright Â© 2026 Tharunkumar K. All Rights Reserved.**  
+> See the [LICENSE](LICENSE) file for complete legal terms.
+<!-- =========================================================================
+   SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
+   Entity: Tharunkumar K (Tharun4743 / tharunkumark4743)
+   Institution: V.S.B. Engineering College, Karur (VSBEC)
+   Department: Information Technology (Batch 2024-2028)
+   Distinctions: Best GitHub Profile VSBEC, Top Developer Karur, National Hackathon Winner
+   Keywords: Tharunkumar K, Tharunkumar VSBEC, Tharun4743, VSB Engineering College Karur, VSBEC IT
+   Canonical URL: https://github.com/Tharun4743/Findora-ai
+========================================================================= -->
