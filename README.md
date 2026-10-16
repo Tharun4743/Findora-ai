@@ -173,43 +173,16 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
   <sub>FINDORA AI • Tharunkumar K (@Tharun4743) • V.S.B. Engineering College, Karur</sub>
 </div>
 
-
-## 👨‍💻 Engineering Author
-
-<table border="0">
-  <tr>
-    <td width="120" align="center" valign="top">
-      <img src="https://github.com/Tharun4743.png" width="100" style="border-radius: 4px;" alt="Tharunkumar K" />
-    </td>
-    <td>
-      <h3>Tharunkumar K</h3>
-      <p>
-        <b>Full Stack Developer & AI Systems Engineer</b><br/>
-        🎓 B.Tech in Information Technology — <a href="https://vsbec.com"><b>V.S.B. Engineering College, Karur</b></a> (Batch 2024–2028)<br/>
-        🌟 Recognized for holding the <b>Best GitHub Profile & Top Student Developer</b> at V.S.B. Engineering College (VSBEC)<br/>
-        🥇 <b>Winner — Code Thugs 2K26</b> • 🚀 <b>Smart India Hackathon (SIH)</b> Top 50 National Finalist
-      </p>
-      <p>
-        <a href="https://tharunkumark4743.netlify.app/">🌐 Portfolio</a> •
-        <a href="https://github.com/Tharun4743">🐙 GitHub (@Tharun4743)</a> •
-        <a href="https://www.linkedin.com/in/tharunkumark4743">💼 LinkedIn</a> •
-        <a href="https://leetcode.com/u/Tharunkumar__K/">🧩 LeetCode</a> •
-        <a href="mailto:tharunkumark42007@gmail.com">📧 Email</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## ðŸ“œ License & Intellectual Property Notice
+## License & Intellectual Property Notice
 
 > [!CAUTION]
-> ### ðŸ”’ PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY â€” ALL RIGHTS RESERVED
+> ### PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY - ALL RIGHTS RESERVED
 >
-> All rights reserved. This repository, its architecture, source code, workflows, models, and associated documentation are the exclusive intellectual property of **Tharunkumar Kâ„¢**.
+> All rights reserved. This repository, its architecture, source code, workflows, models, and associated documentation are the exclusive intellectual property of **Tharunkumar K**.
 >
 > **STRICT NOTICE:** No individual, organization, institution, or commercial entity is permitted to use, copy, modify, distribute, reproduce, sublicense, reverse-engineer, deploy, or commercially exploit any portion of this project without express, prior written permission from **Tharunkumar K**.
 >
-> **Copyright Â© 2026 Tharunkumar K. All Rights Reserved.**  
+> **Copyright 2026 Tharunkumar K. All Rights Reserved.**  
 > See the [LICENSE](LICENSE) file for complete legal terms.
 <!-- =========================================================================
    SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
