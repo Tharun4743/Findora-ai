@@ -1,4 +1,4 @@
-# ≡ƒ¢í∩╕Å FINDORA AI
+# 🛡️ FINDORA AI
 ### Autonomous Campus Lost & Found Intelligence Network
 
 <div align="center">
@@ -21,21 +21,21 @@
 
 ---
 
-## ≡ƒæñ Author Details
+## 👤 Author Details
 
 | Developer & Lead Architect | Department & Institution | Institutional Email | GitHub Profile |
 | :--- | :--- | :--- | :--- |
 | **Tharunkumar K** | Dept. of Information Technology, **V.S.B. Engineering College (VSBEC)** | `tharunkumark42007@gmail.com` | [@Tharun4743](https://github.com/Tharun4743) |
 
-### ≡ƒöù Official Repositories
+### 🔗 Official Repositories
 1. **Primary Developer Repository**: [`https://github.com/Tharun4743/findora-ai`](https://github.com/Tharun4743/findora-ai)
-2. **Institutional College Repository**: [`https://github.com/VSBECIT/findora-ai`](https://github.com/VSBECIT/findora-ai) *(Maintained by Tharunkumar K ΓÇö @Tharun4743)*
+2. **Institutional College Repository**: [`https://github.com/VSBECIT/findora-ai`](https://github.com/VSBECIT/findora-ai) *(Maintained by Tharunkumar K — @Tharun4743)*
 
 - **IEEE Research Report**: [`docs/findora_ieee_report.pdf`](docs/findora_ieee_report.pdf) *(Exact 4-Page Standard Two-Column Paper)*
 
 ---
 
-## ≡ƒÅù∩╕Å System Architecture & Data Pipeline
+## 🏗️ System Architecture & Data Pipeline
 
 ```mermaid
 graph TD
@@ -48,7 +48,7 @@ graph TD
     subgraph PRESENTATION ["1. Presentation Layer (React 19 + TypeScript)"]
         UI_SPA["React 19 Single Page App<br/>(Vite, Tailwind CSS, Lucide Icons)"]:::client
         UI_CAM["Live WebRTC Camera Engine<br/>(HTML5 Canvas Optical GPS & Timestamp Stamping)"]:::client
-        UI_ROLES["Three-Tier Role Views<br/>(Student Portal ΓÇó Desk Officer ΓÇó Admin Intelligence)"]:::client
+        UI_ROLES["Three-Tier Role Views<br/>(Student Portal • Desk Officer • Admin Intelligence)"]:::client
     end
 
     subgraph GATEWAY ["2. Backend API Gateway (Node.js / Express)"]
@@ -86,7 +86,7 @@ graph TD
 
 ---
 
-## ≡ƒ¢á∩╕Å Current Technology Stack
+## 🛠️ Current Technology Stack
 
 | Layer | Technologies & Frameworks | Description |
 | :--- | :--- | :--- |
@@ -104,7 +104,7 @@ graph TD
 
 ---
 
-## ΓÜí Core Mathematical Matching Formulation
+## ⚡ Core Mathematical Matching Formulation
 
 When an item is reported, FINDORA AI scans the opposite inventory catalog and calculates a composite matching score $\Phi(I_t, I_j) \in [0, 1]$:
 
@@ -121,7 +121,7 @@ $$\Phi(I_t, I_j) = 0.35 \cdot S_{\text{vis}} + 0.30 \cdot S_{\text{sem}} + 0.15 
 
 ---
 
-## ≡ƒñû Telegram Bot Commands (`@findoravsb_bot`)
+## 🤖 Telegram Bot Commands (`@findoravsb_bot`)
 
 The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
@@ -145,7 +145,7 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
 ---
 
-## ≡ƒôè Live Experimental Performance (VSBEC Pilot)
+## 📊 Live Experimental Performance (VSBEC Pilot)
 
 | Metric | Traditional Physical Register | FINDORA AI Platform | Impact |
 | :--- | :---: | :---: | :---: |
@@ -158,7 +158,7 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 
 ---
 
-## ≡ƒîÉ Live Production Links
+## 🌐 Live Production Links
 
 - **Production Portal**: [https://findoravsbec.vercel.app](https://findoravsbec.vercel.app)
 - **Primary GitHub Repo**: [https://github.com/Tharun4743/findora-ai](https://github.com/Tharun4743/findora-ai)
@@ -170,11 +170,11 @@ The bot operates seamlessly in both **Campus Groups** and **Direct Messages**:
 ---
 
 <div align="center">
-  <sub>FINDORA AI ΓÇó Tharunkumar K (@Tharun4743) ΓÇó V.S.B. Engineering College, Karur</sub>
+  <sub>FINDORA AI • Tharunkumar K (@Tharun4743) • V.S.B. Engineering College, Karur</sub>
 </div>
 
 
-## License & Intellectual Property Notice
+## ðŸ“œ License & Intellectual Property Notice
 
 > [!CAUTION]
 > ### ðŸ”’ PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY â€” ALL RIGHTS RESERVED
